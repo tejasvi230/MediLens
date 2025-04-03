@@ -82,7 +82,7 @@ GET /api/stores?lat=28.7041&lon=77.1025
 - ✅ AI-based medicine recommendations
 
 ### 📩 Need Help?
-For support, contact **your-email@example.com**
+For support, contact **connectsonasha@gmail.com**
 
 Happy Coding! 🚀
 
